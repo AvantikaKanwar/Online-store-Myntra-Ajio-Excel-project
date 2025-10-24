@@ -1,1 +1,2 @@
 # Online-store-Myntra-Ajio-Excel-project
+I created an interactive online sales dashboard in Excel by importing and cleaning raw sales data, then using PivotTables and charts to visualize key metrics like revenue, product performance, and regional trends. I added slicers, timelines, and conditional formatting to make the dashboard dynamic and user-friendly, enabling quick insights into monthly sales patterns and top-performing categories.
